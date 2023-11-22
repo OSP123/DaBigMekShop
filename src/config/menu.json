@@ -5,39 +5,24 @@
       "url": "/"
     },
     {
+      "name": "Get A Quote",
+      "url": "/quote"
+    },
+    {
+      "name": "Testimonials",
+      "url": "/testimonials"
+    },
+    {
+      "name": "Contact Us",
+      "url": "/contact"
+    },
+    {
       "name": "About",
       "url": "/about"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
-    },
-    {
-      "name": "Pages",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "Contact",
-          "url": "/contact"
-        },
-        {
-          "name": "Blog",
-          "url": "/blog"
-        },
-        {
-          "name": "Authors",
-          "url": "/authors"
-        },
-        {
-          "name": "Categories",
-          "url": "/categories"
-        },
-        {
-          "name": "404 Page",
-          "url": "/404"
-        }
-      ]
+      "name": "The Process",
+      "url": "/process"
     }
   ],
   "footer": [
