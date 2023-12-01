@@ -14,7 +14,7 @@ This privacy notice for DaBigMekShop ("**we**," "**us**," or "**our**"), describ
 
 * Engage with us in other related ways, including any sales, marketing, or events
 
-**Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at contact@dabigmekshop.com.
+**Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at [contact@dabigmekshop.com](mailto:contact@dabigmekshop.com).
 
 **SUMMARY OF KEY POINTS**
 
@@ -200,7 +200,7 @@ However, please note that this will not affect the lawfulness of the processing 
 
 **Opting out of marketing and promotional communications:**You can unsubscribe from our marketing and promotional communications at any time by clicking on the unsubscribe link in the emails that we send, replying "STOP" or "UNSUBSCRIBE" to the SMS messages that we send, or by contacting us using the details provided in the section "[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#contact)" below. You will then be removed from the marketing lists. However, we may still communicate with you — for example, to send you service-related messages that are necessary for the administration and use of your account, to respond to service requests, or for other non-marketing purposes.
 
-If you have questions or comments about your privacy rights, you may email us at contact@dabigmekshop.com.
+If you have questions or comments about your privacy rights, you may email us at [contact@dabigmekshop.com](mailto:contact@dabigmekshop.com).
 
 **7. CONTROLS FOR DO-NOT-TRACK FEATURES**
 
@@ -332,7 +332,7 @@ Other privacy rights
 
 * You may request to opt out from future selling or sharing of your personal information to third parties. Upon receiving an opt-out request, we will act upon the request as soon as feasibly possible, but no later than fifteen (15) days from the date of the request submission.
 
-To exercise these rights, you can contact us by submitting a [data subject access request](https://app.termly.io/notify/4161277f-4eeb-4b46-b699-a5f639cbacf4), by email at contact@dabigmekshop.com, or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.
+To exercise these rights, you can contact us by submitting a [data subject access request](https://app.termly.io/notify/4161277f-4eeb-4b46-b699-a5f639cbacf4), by email at [contact@dabigmekshop.com](mailto:contact@dabigmekshop.com), or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.
 
 **Colorado Residents**
 
@@ -348,9 +348,9 @@ This section applies only to Colorado residents. Under the Colorado Privacy Act 
 
 * Right to obtain a copy of the personal data you previously shared with us * Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling")
 
-To submit a request to exercise these rights described above, please email contact@dabigmekshop.com or submit a [data subject access request](https://app.termly.io/notify/4161277f-4eeb-4b46-b699-a5f639cbacf4).
+To submit a request to exercise these rights described above, please email [contact@dabigmekshop.com](mailto:contact@dabigmekshop.com) or submit a [data subject access request](https://app.termly.io/notify/4161277f-4eeb-4b46-b699-a5f639cbacf4).
 
-If we decline to take action regarding your request and you wish to appeal our decision, please email us at contact@dabigmekshop.com. Within forty-five (45) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.
+If we decline to take action regarding your request and you wish to appeal our decision, please email us at [contact@dabigmekshop.com](mailto:contact@dabigmekshop.com). Within forty-five (45) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.
 
 **Connecticut Residents**
 
@@ -362,9 +362,9 @@ This section applies only to Connecticut residents. Under the Connecticut Data P
 
 * Right to obtain a copy of the personal data you previously shared with us * Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling")
 
-To submit a request to exercise these rights described above, please email contact@dabigmekshop.com or submit a [data subject access request](https://app.termly.io/notify/4161277f-4eeb-4b46-b699-a5f639cbacf4).
+To submit a request to exercise these rights described above, please email [contact@dabigmekshop.com](mailto:contact@dabigmekshop.com) or submit a [data subject access request](https://app.termly.io/notify/4161277f-4eeb-4b46-b699-a5f639cbacf4).
 
-If we decline to take action regarding your request and you wish to appeal our decision, please email us at contact@dabigmekshop.com. Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.
+If we decline to take action regarding your request and you wish to appeal our decision, please email us at [contact@dabigmekshop.com](mailto:contact@dabigmekshop.com). Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.
 
 **Utah Residents**
 
@@ -380,7 +380,7 @@ This section applies only to Utah residents. Under the Utah Consumer Privacy Act
 
 * Right to opt out of the processing of your personal data if it is used for targeted advertising or the sale of personal data
 
-To submit a request to exercise these rights described above, please email contact@dabigmekshop.com or submit a [data subject access request](https://app.termly.io/notify/4161277f-4eeb-4b46-b699-a5f639cbacf4).
+To submit a request to exercise these rights described above, please email [contact@dabigmekshop.com](mailto:contact@dabigmekshop.com) or submit a [data subject access request](https://app.termly.io/notify/4161277f-4eeb-4b46-b699-a5f639cbacf4).
 
 **Virginia Residents**
 
@@ -410,7 +410,7 @@ Your rights with respect to your personal data
 
 Exercise your rights provided under the Virginia VCDPA
 
-You may contact us by email at contact@dabigmekshop.com or submit a [data subject access request](https://app.termly.io/notify/4161277f-4eeb-4b46-b699-a5f639cbacf4).
+You may contact us by email at [contact@dabigmekshop.com](mailto:contact@dabigmekshop.com) or submit a [data subject access request](https://app.termly.io/notify/4161277f-4eeb-4b46-b699-a5f639cbacf4).
 
 If you are using an authorized agent to exercise your rights, we may deny a request if the authorized agent does not submit proof that they have been validly authorized to act on your behalf.
 
@@ -422,7 +422,7 @@ Upon receiving your request, we will respond without undue delay, but in all cas
 
 Right to appeal
 
-If we decline to take action regarding your request, we will inform you of our decision and reasoning behind it. If you wish to appeal our decision, please email us at contact@dabigmekshop.com. Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may contact the [Attorney General to submit a complaint](https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint).
+If we decline to take action regarding your request, we will inform you of our decision and reasoning behind it. If you wish to appeal our decision, please email us at [contact@dabigmekshop.com](mailto:contact@dabigmekshop.com). Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may contact the [Attorney General to submit a complaint](https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint).
 
 **9. DO OTHER REGIONS HAVE SPECIFIC PRIVACY RIGHTS?**
 
@@ -464,7 +464,7 @@ We may update this privacy notice from time to time. The updated version will be
 
 **11. <a id="contact"></a>HOW CAN YOU CONTACT US ABOUT THIS NOTICE?**
 
-If you have questions or comments about this notice, you may email us at <contact@dabigmekshop.com>.
+If you have questions or comments about this notice, you may email us at [contact@dabigmekshop.com](mailto:contact@dabigmekshop.com).
 
 **12. <a id="request"></a>HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?**
 
