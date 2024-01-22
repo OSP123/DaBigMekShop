@@ -1,15 +1,14 @@
 {
   "site": {
-    "title": "Nextplate",
+    "title": "Da Big Mekshop",
     "base_url": "https://nextplate.netlify.app",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
-    "logo_darkmode": "/images/logo-darkmode.png",
+    "logo": "/images/ork-logo.png",
     "logo_width": "150",
-    "logo_height": "27",
-    "logo_text": "Nextplate"
+    "logo_height": "127",
+    "logo_text": "Ork-mech-logo"
   },
 
   "settings": {

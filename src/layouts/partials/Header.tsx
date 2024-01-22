@@ -1,7 +1,7 @@
 "use client";
 
 import Logo from "@/components/Logo";
-import ThemeSwitcher from "@/components/ThemeSwitcher";
+import Title from "@/components/Title";
 import config from "@/config/config.json";
 import menu from "@/config/menu.json";
 import Link from "next/link";
@@ -43,6 +43,7 @@ const Header = () => {
         <div className="order-0">
           <Logo />
         </div>
+        <Title />
         {/* navbar toggler */}
         <input id="nav-toggle" type="checkbox" className="hidden" />
         <label
