@@ -2,6 +2,7 @@
 
 import Logo from "@/components/Logo";
 import Title from "@/components/Title";
+import QuoteBtn from "@/components/QuoteBtn";
 import config from "@/config/config.json";
 import menu from "@/config/menu.json";
 import Link from "next/link";
@@ -38,12 +39,17 @@ const Header = () => {
     <header
       className={`header z-30 ${settings.sticky_header && "sticky top-0"}`}
     >
-      <nav className="navbar container">
+      <div className="h-screen flex items-center justify-center">
+        <QuoteBtn />
+      </div>
+      <nav className="navbar container flex">
         {/* logo */}
-        <div className="order-0">
+        <div>
           <Logo />
         </div>
-        <Title />
+        <div>
+          <Title />
+        </div>
         {/* navbar toggler */}
         <input id="nav-toggle" type="checkbox" className="hidden" />
         <label
