@@ -39,7 +39,7 @@ const Header = () => {
     <header
       className={`header z-30 ${settings.sticky_header && "sticky top-0"}`}
     >
-      <div className="h-screen flex items-center justify-center">
+      <div className="flex items-center justify-center">
         <QuoteBtn />
       </div>
       <nav className="navbar container flex">
