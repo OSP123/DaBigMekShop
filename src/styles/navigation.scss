@@ -15,6 +15,10 @@ input#nav-toggle:checked ~ #nav-menu {
   @apply bg-body py-6 dark:bg-darkmode-body;
 }
 
+#title {
+  font-family: "Rye-Regular";
+}
+
 // navbar items
 .navbar {
   @apply relative flex flex-wrap items-center justify-between;

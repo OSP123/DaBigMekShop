@@ -13,7 +13,7 @@ const Title = () => {
 
   return (
     <Link href="/" className="navbar-brand inline-block">
-      <h1>{title}</h1>
+      <h1 id="title">{title}</h1>
     </Link>
   );
 };

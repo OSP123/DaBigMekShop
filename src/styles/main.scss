@@ -1,6 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@font-face {
+  font-family: 'Rye-Regular';
+  src: local('Rye-Regular'), url("/Rye-Regular.ttf") format('truetype');
+}
 
 @layer base {
   @import "base";
