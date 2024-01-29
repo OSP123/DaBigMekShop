@@ -44,17 +44,17 @@ const Header = () => {
       </div>
       <nav className="navbar container flex">
         {/* logo */}
-        <div>
+        <div className="m-auto">
           <Logo />
         </div>
-        <div>
+        <div className="m-auto">
           <Title />
         </div>
         {/* navbar toggler */}
         <input id="nav-toggle" type="checkbox" className="hidden" />
         <label
           htmlFor="nav-toggle"
-          className="order-3 cursor-pointer flex items-center lg:hidden text-dark dark:text-white lg:order-1"
+          className="order-3 cursor-pointer flex items-center lg:hidden text-dark dark:text-white lg:order-1 m-auto"
         >
           <svg
             id="show-button"
@@ -80,7 +80,7 @@ const Header = () => {
 
         <ul
           id="nav-menu"
-          className="navbar-nav order-3 hidden w-full pb-6 lg:order-1 lg:flex lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8"
+          className="navbar-nav order-3 hidden w-full pb-6 lg:order-1 lg:flex lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8 m-auto"
         >
           {main.map((menu, i) => (
             <React.Fragment key={`menu-${i}`}>
